@@ -4,7 +4,7 @@ Hi! It's me. Kendra Dee Chalkley. I'm a
   - (theoretical) *linguist*
     - (distributed) morphologist
     - (minimalist) syntactitian
-  - *programmer*, specializing in:
+  - *computer scientist*, specializing in:
     - natural language processing
     - machine learning (deep learning, LSTMs) 
     - reddit data analysis via pyspark 
@@ -24,13 +24,13 @@ and a sort of accidental leader who regularly gives classmates the mistaken impr
 
 I can write professionally. I promise. I've been an admin assistant, edited deliverables, communicated with clients and subcontractors, and the rest. I find it hard to feel honest when in some forms of professional writing, and I'm writing a lot of cover letters these days... So I wanted to make my website sound like the real me, who admits to the professor when I forgot to do the reading or chose to support a friend instead of finishing the homework, rather than the polished facade required by the standard job application process. Speaking of which, here's the next section.
 
-# Why am I actually applying for <job> at <company>? (an honest and general cover... paragraph)
+# Why am I actually applying for \<job\> at \<company\>? (an honest and general cover... paragraph)
 
-I think this position might allow me to think about interesting problems and give me an opportunity to solve them, I (mostly) meet the qualifications on the job description, and I think you'll pay me enough that I can provide a yard to my dog and a garage to my house husband. I have no idea if I am a culture fit because I've never met you, and I don't know what you actually want me to do, so I have no idea which of my experiences or strengths might be interesting to you. If you'll just interview me, which I think you should do based on the fact that I meet the requirements in the job description, we'll both gain a lot more information about each other much more efficiently than we will by my trying to impress you with my humble yet confident writing and you having to read or gently skim it. 
+I think this position might allow me to think about interesting problems and give me an opportunity to solve them, I (at least mostly) meet the qualifications on the job description, and I think you'll pay me enough that I can provide a yard to my dog and a garage to my house husband. I have no idea if I am a culture fit because I've never met you, and I don't know what you actually want me to do, so I have no idea which of my experiences or strengths might be interesting to you. If you'll just interview me, which I think you should do based on the fact that I meet the requirements in the job description, we'll both gain a lot more information about each other much more efficiently than we will by my trying to impress you with my humble yet confident writing and you having to read or gently skim it. 
 
 # What is even going to be on this site? 
 
-I hope to get a markdown version of my resume up soon. I'll have to learn how to post the PDF. I'd like to explain some of my class projects and direct people to them, but I've been meaning to write readmes for them for forever, and job searching is the strongest procrastination motivator that there ever was so... hopefully that happens. I also have been imagining applying for Google X and it's reminded me of every crazy, obviously world changing project idea I've ever had.... So hopefully I'll also write about a couple of those.
+My homepage includes a link to a recent resume. I'd like to explain some of my class projects and direct people to them, but I also need to get more position-specific applications out there, and start going to local meetups. Hopefully I'll prettify my jupyter notebooks and write some readmes soon, and you'll find access to those from my homepage as well. 
 
 Thank you for looking me up, and I hope everything goes well for the both of us. 
  
