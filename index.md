@@ -12,5 +12,5 @@ I'm putting up a quick website to help with my active job search. I'm a computat
     - [The afore-mentioned About](./About.html)
   - My masters' research project
     - [A notebook showing t-SNE clusters of subreddits based on word use](https://kchalk.github.io/t-SNE_Examples.html)
-    - [Git repo]( http://www.github.com/kchalk/RedditProject)
-    - [A downloadable PowerPoint explaining t-SNE]( http://www.github.com/kchalk/RedditProject) (presentation notes to come)
+    - [Git repo]( https://www.github.com/kchalk/RedditProject)
+    - [A downloadable PowerPoint explaining t-SNE]( https://kchalk.github.io/FinalTsnePres.pptx) (presentation notes to come)
