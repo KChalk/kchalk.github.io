@@ -1,4 +1,4 @@
-title: kchalk on Github
+title: kchalk
 author: Kendra Chalkley
 email: kd.chalkley@gmail.com
 description: > 
@@ -7,5 +7,7 @@ description: >
 twitter_username: KDChalkley
 github_username: kchalk
 
-theme: jekyll-theme-slate
+show_downloads: false
+theme: jekyll-theme-minimal
+
 google_analytics: UA-141697754-1
