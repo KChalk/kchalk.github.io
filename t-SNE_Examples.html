@@ -13148,10 +13148,10 @@ div#notebook {
 
 <div class="cell border-box-sizing code_cell rendered">
     <p> 
-      Online forums provide a wealth of language data and even, by the topical nature of the forums, come complete with some labeling. One can assume, with some level of confidence, that the language of a forum titled 'teenagers' has a strong relationship with the language of teenagers themselves, and the occasional misleading title is manageable. Researchers have already made some use of loosely labeled data to research patterns in the mental health community. The work below was inspired by Al-Mosaiwi and Johnstone's <a href= 'https://doi.org/10.1177/2167702617747074'> In an Absolute State</a> which showed increased use of absolutist words ('always', 'never', 'completely', etc) in forums concerning depression, anxiety, and suicidal ideation. This analysis uses Al-Mosaiwi and Johnstones's list of absolutist words alongside several other sentiment dictionaries (see also <a href="http://liwc.wpengine.com"> Linguistic Inquiry and Word Count (LIWC)</a> software) representing categories such as functional, negation, positive emotion, negative emotion, body, work, leisure, and money related words.	
+      Online forums provide a wealth of language data and even, by the topical nature of the forums, come complete with some labeling. One can assume, with some level of confidence, that the language of a forum titled 'teenagers' has a strong relationship with the language of teenagers themselves, and the occasional misleading title is manageable. Researchers have already made some use of loosely labeled data to research patterns in the mental health community. The work below was inspired by Al-Mosaiwi and Johnstone's <a href= 'https://doi.org/10.1177/2167702617747074'> In an Absolute State</a> which showed increased use of absolutist words ('always', 'never', 'completely', etc.) in forums concerning depression, anxiety, and suicidal ideation. This analysis uses Al-Mosaiwi and Johnstone's list of absolutist words alongside several other sentiment dictionaries (see also <a href="http://liwc.wpengine.com"> Linguistic Inquiry and Word Count (LIWC)</a> software) representing categories such as functional, negation, positive emotion, negative emotion, body, work, leisure, and money related words.	
     </p>
     <p>
-      The remarkable result is that the language use each subreddit, even when represented by these dictionary frequencies alone, is completely distinguishable from other subreddits, and subreddits also tend to form clusters within the categories they were selected to represent (video gaming, mental health, computers, relationships, recreational drugs, sports, and media). The easiest way to see this result is via t-SNE dimensionality reduction, which takes as input dictionary frequencies (or a normalized, PCA reduced representation thereof) and outputs two-dimensional points, which are graphed below. For more information on the t-SNE algorithm see <a href="https://lvdmaaten.github.io/tsne/">the original paper on it</a> or <a href="https://kchalk.github.io/FinalTsnePres.pptx">these slides</a> introducing the concept (additional presentation notes to come). \
+      The remarkable result is that the language use each subreddit, even when represented by these dictionary frequencies alone, is completely distinguishable from other subreddits, and subreddits also tend to form clusters within the categories they were selected to represent (video gaming, mental health, computers, relationships, recreational drugs, sports, and media). The easiest way to see this result is via t-SNE dimensionality reduction, which takes as input dictionary frequencies (or a normalized, PCA reduced representation thereof) and outputs two-dimensional points, which are graphed below. For more information on the t-SNE algorithm, see <a href="https://lvdmaaten.github.io/tsne/">the original paper on it</a> or <a href="https://kchalk.github.io/FinalTsnePres.pptx">these slides</a> introducing the concept (additional presentation notes to come). \
     </p>
 
     <p> The notebook code and graphs below present the data and resulting visualizations. I've removed the least interesting code blocks; for the curious, that code, as well as a few other examples from other projects, is available in <a href="https://github.com/KChalk/kchalk.github.io/tree/master/jupyter">this folder</a> on my GitHub. If you're interested in these results, my work on forum language, or how else I think t-SNE visualizations could help make NLP and DL more understandable, please <a href="mailto:kd.chalkley@gmail.com">email me</a>!      
@@ -13917,7 +13917,7 @@ var element = $('#50b66062-ad34-47b9-ab4e-92cb8f115115');
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>This dataset includes 1 month(s) of data from 51 subreddits.
 
-These data include the frequencty of words from 55 word collections in each month of posts to each subreddit, as well as the total number of posts in that month and the total word count in those posts.
+  These data include the frequency of words from 55 word collections in each month of posts to each subreddit. The total number of posts to a given subreddit in that month and the total word count in those posts are also recorded.
 
 The names of these word collections are:
 	 absolutist   funct   pronoun   i
@@ -13945,8 +13945,8 @@ The names of these word collections are:
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="One-Month-Visual">One Month Visual<a class="anchor-link" href="#One-Month-Visual">&#182;</a></h3><p> The image at the beginning of this section is a scatter plot showing one month of data in which each point represents the t-SNE dimensionality reduction of numerical features representing one subreddit. The name of the subreddit associated with each point can be seen by hovering over the data point</p>
-<p>Of note is the way, points representing each subreddit cluster with each other, with the exception of the 'general' category which includes the following, largely unrelated subreddits:</p>
+<h3 id="One-Month-Visual">One Month Visual<a class="anchor-link" href="#One-Month-Visual">&#182;</a></h3><p> The image at the beginning of this section is a scatter plot showing one month of data in which each point represents the t-SNE dimensionality reduction of numerical features representing one subreddit. The name of the subreddit associated with each point can be seen by hovering over the data point.</p>
+<p>Of note is the way points representing each subreddit cluster with each other. The main exception is the 'general' category which includes the following, largely unrelated subreddits:</p>
 
 <pre><code>- tifu  (today I fucked up) 
 - r4r
@@ -14157,10 +14157,10 @@ The names of these word collections are:
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>This dataset includes 70 month(s) of data from 57 subreddits.
 
-These data include the frequencty of words from 55 word collections in each month of posts to each subreddit, 
+These data include the frequency of words from 55 word collections in each month of posts to each subreddit, 
 as well as the total number of posts in that month and the total word count in those posts.
 
-In total this data represents 4733344 text posts.
+In total, this data represents 4733344 text posts.
 </pre>
 </div>
 </div>
@@ -14281,7 +14281,9 @@ var element = $('#677ba4aa-213c-4683-a485-5537c457e35d');
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Big-reddit-data,-without-metadata">Big reddit data, without metadata<a class="anchor-link" href="#Big-reddit-data,-without-metadata">&#182;</a></h3><p>One wonders if the primary reason subreddits can be so easily clustered might be their consistent number of posts and total words across months. I've replicated the efforts above, removing the post and word count metadata, and the results show a similarly clustered dataset.</p>
+<h3 id="Big-reddit-data,-without-metadata">Big Reddit data, without metadata<a class="anchor-link" href="#Big-reddit-data,-without-metadata">&#182;</a></h3><p>
+  One wonders if the primary reason subreddits form such distinct clusters might be their consistent number of posts and total words across months. I've replicated the efforts above, removing the post and word count metadata, and the results show a similarly clustered dataset.
+  </p>
 
 </div>
 </div>
