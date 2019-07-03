@@ -14,3 +14,11 @@ I'm a computational linguist looking for language-oriented data science or machi
     - [A notebook](https://kchalk.github.io/t-SNE_Examples.html) showing t-SNE clusters of subreddits based on word use
     - [Git repo]( https://www.github.com/kchalk/RedditProject)
     - A downloadable [PowerPoint](https://kchalk.github.io/FinalTsnePres.pptx) explaining t-SNE (presentation notes to come)
+- My undergraduate thesis
+    - In [pdf](./AppliedAsymmetries.pdf)
+    - Some snippets to spark your curiousity:
+    ![Syntax tree for 'Nohomorungkene?e na keneno te wurai te'][tree]
+    ![Gloss for 'Nohomorungkene?e na keneno te wurai te'][gloss]
+
+[tree]: ./85tree.PNG "commitative tree"
+[tree]: ./84gloss.PNG "commitative gloss"
