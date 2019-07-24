@@ -19,5 +19,5 @@ I'm a computational linguist looking for language-oriented data science or machi
 - My undergraduate thesis
   - In [pdf](./Data/AppliedAsymmetries.pdf)
   - Some snippets to spark your curiousity:
-  ![Syntax tree for 'Nohomorungkene?e na keneno te wurai te'](./Data/85tree.PNG)
+  <img src="./Data/85tree.PNG" alt="Syntax tree for 'Nohomorungkene?e na keneno te wurai te'" width="200"/>
   ![Gloss for 'Nohomorungkene?e na keneno te wurai te'](./Data/84gloss.PNG)
