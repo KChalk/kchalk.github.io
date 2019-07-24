@@ -7,6 +7,8 @@ description: >
 twitter_username: KDChalkley
 github_username: kchalk
 
+logo: /Data/headshot.jpg
+
 show_downloads: false
 theme: jekyll-theme-slate
 featured-img: profile.jpg
