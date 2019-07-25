@@ -19,6 +19,7 @@ I'm a computational linguist looking for language-oriented data science or machi
 - My undergraduate thesis
   - In [pdf](./Data/AppliedAsymmetries.pdf)
   - Some snippets to spark your curiousity:
-  <img src="./Data/85tree.PNG" alt="Syntax tree for 'Nohomorungkene?e na keneno te wurai te'" width="600"/>
+
+  <img src="./Data/85tree.PNG" alt="Syntax tree for 'Nohomorungkene?e na keneno te wurai te'" width="400"/>
   
-  <img src="./Data/84gloss.PNG" alt="Gloss for 'Nohomorungkene?e na keneno te wurai te''" width="600"/>
+  <img src="./Data/84gloss.PNG" alt="Gloss for 'Nohomorungkene?e na keneno te wurai te''" width="400"/>
