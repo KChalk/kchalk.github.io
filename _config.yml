@@ -1,50 +1,36 @@
-title: KChalk
-author: Kendra Chalkley
-email: kd.chalkley@gmail.com
-description: > 
-  Personal website of Kendra Chalkley
-
-twitter_username: KDChalkley
-github_username: kchalk
-
-logo: /assets/headshot.jpg
-
-show_downloads: false
-theme: jekyll-theme-slate
-featured-img: profile.jpg
-google_analytics: UA-141697754-1
-
-
-
 # Site
-repository: sproogen/resume-theme
+repository: KChalk/kchalk.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Kendra Chalkley
+title: Computational Linguist
+email: kd.chalkley@gmail.com
+website: www.github.com/KChalk/kchalk.github.io
+
+#title: KChalk
+author: Kendra Chalkley
+description: > 
+  Personal website of Kendra Chalkley
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: KDChalkley
+github_username: kchalk
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: kchalk
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello! I'm Kendra, a compuational linguist, data scientist, machine learning engineer, reasearcher, etc. I've just finished my second degree and I'm looking for my first job in tech!
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>natural language processing</mark>, <mark>deep learning</mark>, and <mark> data visualization</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -59,16 +45,17 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Board Games
+   - Tango/blues/fusion dancing
+   - Dogs
+   - Befriending nerds :)
 
 # Footer
 footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+#theme: jekyll-theme-slate
 
 sass:
   sass_dir: _sass
@@ -76,3 +63,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+google_analytics: UA-141697754-1
