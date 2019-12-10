@@ -1,4 +1,14 @@
 - layout: left
+  name: Oregon Health and Science University (OHSU)
+  dates: 2017 - 2019
+  qualification: MS Computer Science
+  quote: >
+    The Center for Spoken Language Understanding [at OHSU] is one of the country's premier centers for speech and language technology research. What makes us unique is our emphasis on diagnostic, remedial, and assistive applications to neurological disorders.
+  description: | # this will include new lines to allow paragraphs
+    Focus in NLP and machine learning, especially LSTMs. Independent research project evaluated forum language patterns in terms of sentiment dictionaries over a large-scale dataset. 
+
+
+- layout: left
   name: Reed College
   dates: 2010 - 2015
   qualification: BA Linguistics
@@ -7,10 +17,3 @@
   description: | # this will include new lines to allow paragraphs
     Specialized in minimalist syntactic theory and distributed morphology. Year-long, two course research thesis presented a theoretical explanation of a complex grammatical system in a low-resource language (Tukang Besi). Seminar style classes focused on interdisciplinary communication and evidence based, analytical thinking. 
 
-  name: Oregon Health and Science University (OHSU)
-  dates: 2017 - 2019
-  qualification: MS Computer Science
-  quote: >
-    The Center for Spoken Language Understanding [at OHSU] is one of the country's premier centers for speech and language technology research. What makes us unique is our emphasis on diagnostic, remedial, and assistive applications to neurological disorders.
-  description: | # this will include new lines to allow paragraphs
-    Focus in NLP and machine learning, especially LSTMs. Independent research project evaluated forum language patterns in terms of sentiment dictionaries over a large-scale dataset. 
