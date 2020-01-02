@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: home
+title: Home
+landing-title: 'Welcome'
+description: null
+image: null
+author: null
+show_tile: false
 ---
+
 
 # Welcome
 
@@ -12,9 +19,8 @@ I'm a computational linguist looking for language-oriented data science or machi
   - A downloadable [PowerPoint](./Data/FinalTsnePres.pptx) explaining t-SNE (presentation notes to come)
 
 - Profile information
-  - My resume (including contact info) [machine learning targeted](./Data/Resume_6-6.pdf), [NLP oriented](./Data/Parallel_Resume.pdf), or [more machine readable](./Data/Chalkley_Resume.pdf)
+  - My [resume](./Data/Chalkley_Resume.pdf) (including contact info)
   - [My LinkedIn profile]( http://www.linkedin.com/in/kchalk)
-  - [About Me](./About.html)
 
 - My undergraduate thesis
   - In [pdf](./Data/AppliedAsymmetries.pdf)
