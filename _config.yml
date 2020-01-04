@@ -3,7 +3,7 @@ title: Kendra Chalkley
 subtitle: A portfolio etc
 email: k@kchalk.com
 description: Computational linguist, machine learning engineer, data scientist, recent gradaute--looking for work, saving everything here.  
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Kendra Chalkley
 #street_address: 1234 Somewhere Road
@@ -15,7 +15,7 @@ author: Kendra Chalkley
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 12
 
 # social settings
 500px_url:
