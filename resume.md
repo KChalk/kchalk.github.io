@@ -2,17 +2,20 @@
 title: Resume
 layout: page
 description: 'A brief resume of my experience in computation and linguistics'
-image: assets/images/canva_card.png
+image: assets/images/chalkandwood.jpg
 nav-menu: true
 show_tile: true
 
 ---
+# Resume 
+<ul class="actions">
+	<li><a href="Data/Chalkley_Resume.pdf" class="button"> See full resume in PDF</a></li>
+</ul>
 
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
+<section id="MSCS">
 	<div class="inner">
 		<header class="major">
 			<h2>MS Computer Science</h2>
@@ -25,7 +28,20 @@ show_tile: true
 	</div>
 </section>
 
-<!-- Two -->
+<section id="BALing">
+	<div class="inner">
+		<header class="major">
+			<h2>BA Linguistics</h2>
+			<h2>Reed College</h2>
+		</header>
+		<q> Reed College is a private liberal arts college in Portland, Oregon known for its academic rigor, senior thesis, and high proportion of graduates who go on to earn postgraduate degrees. </q>
+		<p>
+    Specialized in minimalist syntactic theory and distributed morphology. Year-long, two course research thesis presented a theoretical explanation of a complex grammatical system in a low-resource language (Tukang Besi). Seminar style classes focused on interdisciplinary communication and evidence based, analytical thinking. 
+</p>
+	</div>
+</section>
+
+<!-- Two 
 <section id="two" class="spotlights">
 	<section>
 		<div class="content">
@@ -40,33 +56,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 </section>
-
+-->
 
 </div>

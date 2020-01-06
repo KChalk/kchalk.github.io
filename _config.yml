@@ -2,11 +2,11 @@
 title: Kendra Chalkley
 subtitle: A portfolio etc
 email: k@kchalk.com
-description: Computational linguist, machine learning engineer, data scientist, recent gradaute--looking for work, saving everything here.  
-baseurl: "/home" # the subpath of your site, e.g. /blog
+description: Portfolio and resume of Kendra Chalkley, computational linguist, machine learning engineer, data scientist, and recent gradaute. I'm looking for work; Hire me!  
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Kendra Chalkley
-#street_address: 1234 Somewhere Road
+#street_address: 1234 Somewhere Road 
 #city: Nashville
 #state: TN
 #zip_code: 55555
