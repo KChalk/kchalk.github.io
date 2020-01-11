@@ -3,8 +3,10 @@ title: Resume
 layout: page
 description: 'A brief resume of my experience in computation and linguistics'
 image: assets/images/chalkandwood.jpg
+show_image: false
 nav-menu: true
 show_tile: true
+
 
 ---
 # Resume 

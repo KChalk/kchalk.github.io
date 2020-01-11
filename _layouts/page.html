@@ -10,8 +10,22 @@
 
 <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+    {% include header.html %}
+	<!-- Main -->
+	<div id="main" class="alt">
 
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				{% if page.show_image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+				<p>{{ content }}</p>
+			</div>
+		</section>
+		
+		</div>
+		
+		{% include footer.html %}
+	
 </body>
 
 </html>

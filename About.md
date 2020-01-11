@@ -3,9 +3,10 @@ layout: page
 title: About
 nav-menu: true
 image: assets/images/canva_card.png
+show_image: true
 ---
 
-# About Kendra Chalkley
+# About Me
 
 Hello! I am Kendra Chalkley. I use kchalk on as my web handle where I can, and kd.chalkley in the few places where I can't. 
 
