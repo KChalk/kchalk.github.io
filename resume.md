@@ -23,7 +23,8 @@ show_tile: true
 		<header class="major">
 			<h1>Master of Science: Computer Science</h1>
 		</header>
-			<h2><span class="image left"><img src="assets/images/ohsutorch.jpg" alt="" /></span>Oregon Health and Science University (OHSU), Center for Spoken Langauge Understanding (CSLU)</h2>
+			<!-- <span class="image left"><img src="assets/images/ohsutorch.jpg" alt="" /></span>-->
+			<h2>Oregon Health and Science University (OHSU), Center for Spoken Langauge Understanding (CSLU)</h2>
 		<blockquote class="ludwig"> The Center for Spoken Language Understanding [at OHSU] is one of the country's premier centers for speech and language technology research. What makes us unique is our emphasis on diagnostic, remedial, and assistive applications to neurological disorders.</blockquote>
 		<p>
 		    Focus in NLP and machine learning, especially LSTMs. Independent research project evaluated forum language patterns in terms of sentiment dictionaries over a large-scale dataset. 
@@ -43,12 +44,21 @@ show_tile: true
 	<div class="inner">
 		<header class="major">
 			<h1>Bachellor of Arts: Linguistics</h1>
-			<h2><span class="image right"><img src="assets/images/reedgriffin.png" alt="" /></span>Reed College</h2>
+			<!--<span class="image right"><img src="assets/images/reedgriffin.png" alt="" /></span>-->
+			<h2>Reed College</h2>
 		</header>
 		<blockquote class="ludwig"> Reed College is a private liberal arts college in Portland, Oregon known for its academic rigor, senior thesis, and high proportion of graduates who go on to earn postgraduate degrees. </blockquote>
 		<p>
-    Specialized in minimalist syntactic theory and distributed morphology. Year-long, two course research thesis presented a theoretical explanation of a complex grammatical system in a low-resource language (Tukang Besi). Seminar style classes focused on interdisciplinary communication and evidence based, analytical thinking. 
-</p>
+		Specialized in minimalist syntactic theory and distributed morphology. Year-long, two course research thesis presented a theoretical explanation of a complex grammatical system in a low-resource language (Tukang Besi). Seminar style classes focused on interdisciplinary communication and evidence based, analytical thinking. 
+		</p>
+		<h4>Thesis</h4>
+		<ul>
+			<li> In <a href="/Data/AppliedAsymmetries.pdf"> PDF</a></li>
+			<li> Some snippets to spark your curiousity:
+			<img src="./Data/85tree.PNG" alt="Syntax tree for 'Nohomorungkene?e na keneno te wurai te'" width="500"/> 
+			<img src="./Data/84gloss.PNG" alt="Gloss for 'Nohomorungkene?e na keneno te wurai te''" width="500"/>
+			</li>
+		</ul>
 	</div>
 </section>
 
