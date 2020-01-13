@@ -23,16 +23,18 @@ show_tile: true
 		<header class="major">
 			<h1>Master of Science: Computer Science</h1>
 		</header>
-			<h2>Oregon Health and Science University (OHSU), Center for Spoken Langauge Understanding (CSLU)</h2>
+			<h2><span class="image left"><img src="assets/images/ohsutorch.jpg" alt="" /></span>Oregon Health and Science University (OHSU), Center for Spoken Langauge Understanding (CSLU)</h2>
 		<blockquote class="ludwig"> The Center for Spoken Language Understanding [at OHSU] is one of the country's premier centers for speech and language technology research. What makes us unique is our emphasis on diagnostic, remedial, and assistive applications to neurological disorders.</blockquote>
 		<p>
 		    Focus in NLP and machine learning, especially LSTMs. Independent research project evaluated forum language patterns in terms of sentiment dictionaries over a large-scale dataset. 
-
-			- My masters' research project
-				- [A notebook](./Data/t-SNE_Examples.html) showing t-SNE clusters of subreddits based on word use
-				- [Git repo]( https://www.github.com/kchalk/RedditProject)
-				- A downloadable [PowerPoint](./Data/FinalTsnePres.pptx) explaining t-SNE (presentation notes to come)
 		</p>
+		<h4>Research project</h4>
+		<ul>
+			<li> <a href="/Data/t-SNE_Examples.html"> A notebook </a> showing t-SNE clusters of subreddits based on word use.</li>
+			<li> <a href= "https://www.github.com/kchalk/RedditProject"> Git repo </a> </li>
+			<li> A downloadable <a href= "Data/FinalTsnePres.pptx">  PowerPoint </a> explaining t-SNE (presentation notes to come) </li>
+		</ul>
+		
 	</div>
 </section>
 
@@ -41,7 +43,7 @@ show_tile: true
 	<div class="inner">
 		<header class="major">
 			<h1>Bachellor of Arts: Linguistics</h1>
-			<h2>Reed College</h2>
+			<h2><span class="image right"><img src="assets/images/reedgriffin.png" alt="" /></span>Reed College</h2>
 		</header>
 		<blockquote class="ludwig"> Reed College is a private liberal arts college in Portland, Oregon known for its academic rigor, senior thesis, and high proportion of graduates who go on to earn postgraduate degrees. </blockquote>
 		<p>
