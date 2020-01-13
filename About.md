@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Who I am
+description: 'About me, mission statement, blog posts, answers to common questions'
 nav-menu: true
 image: assets/images/canva_card.png
 show_image: true
