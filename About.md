@@ -34,4 +34,4 @@ I have a few projects to show off, all of which are available on [my github](git
   <img src="./Data/84gloss.PNG" alt="Gloss for 'Nohomorungkene?e na keneno te wurai te''" width="500"/>
 
 
-I know I said this page would also include a mission statement, blog posts, and answers to common questions... It doesn't yet. If you've read this far, though, you've invested enough time that we should probably connect anyway. 
+I know I said this page would also include a mission statement, blog posts, and answers to common questions... It doesn't yet. If you've read this far, though, you've invested enough time that we should probably connect anyway. [Here](/undoing.html) is the begining of a draft blog post though... 
