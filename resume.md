@@ -1,5 +1,5 @@
 ---
-title: What I do
+title: What I've done
 layout: landing
 description: 'A brief resume of my experience and projects in computation and linguistics'
 image: assets/images/chalkandwood.jpg
